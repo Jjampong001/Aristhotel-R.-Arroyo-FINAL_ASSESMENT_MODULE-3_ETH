@@ -1,4 +1,4 @@
-# Final_Assessment_Module3_ET
+# Final_Assessment_Module3_ETH
 
 This is the Solidity Program, commonly known as the minting and burning program. This software will show you how to mint and burn the token, as well as the total quantity of the token.
 
